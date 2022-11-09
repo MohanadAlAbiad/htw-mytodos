@@ -8,7 +8,6 @@ class MytodosApplicationTests {
 
 	@Test
 	void contextLoads() {
-		throw new RuntimeException("test");
 	}
 
 }
